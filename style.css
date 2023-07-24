@@ -1,0 +1,37 @@
+ .leadsection .logo{
+    display: flex;
+    justify-content: center;
+}
+.forsection .for2 .doctor{
+    background-color: aqua;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 22vw;
+    height: 35vh;
+    border-radius: 5%;
+}
+.forsection .for1 .patient{
+    background-color: aquamarine;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 22vw;
+    height: 35vh;
+    border-radius: 5%;
+}
+.forsection .for3 .clinic{
+    background-color: blue;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 22vw;
+    height: 35vh;
+    border-radius: 5%;
+}
+.forsection{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    
+}
